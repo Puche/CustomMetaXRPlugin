@@ -1,0 +1,16 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"OculusXRAnchors": "UnrealEditor-OculusXRAnchors.dll",
+		"OculusXREditor": "UnrealEditor-OculusXREditor.dll",
+		"OculusXREyeTracker": "UnrealEditor-OculusXREyeTracker.dll",
+		"OculusXRHMD": "UnrealEditor-OculusXRHMD.dll",
+		"OculusXRInput": "UnrealEditor-OculusXRInput.dll",
+		"OculusXRMR": "UnrealEditor-OculusXRMR.dll",
+		"OculusXRMovement": "UnrealEditor-OculusXRMovement.dll",
+		"OculusXROpenXRHMD": "UnrealEditor-OculusXROpenXRHMD.dll",
+		"OculusXRPassthrough": "UnrealEditor-OculusXRPassthrough.dll",
+		"OculusXRScene": "UnrealEditor-OculusXRScene.dll"
+	}
+}
